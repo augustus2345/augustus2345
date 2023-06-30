@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+think+,+therefore+I+am.)](https://git.io/typing-svg)
+## Hi I'm augustus!
 
 <!--
 **augustus2345/augustus2345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
