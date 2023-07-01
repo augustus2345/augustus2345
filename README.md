@@ -1,4 +1,4 @@
-`<h2 align="center">`Hi I'm augustus!`</b></h>`
+## Hi I'm augustus!
 
 <div align="center">
 
